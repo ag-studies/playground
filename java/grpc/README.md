@@ -19,7 +19,7 @@ The shared-project has '.proto' file.
 
 Compile and package this project:
 ```
-$ mvn compile packag
+$ mvn compile package
 ```
 
 For run server:
